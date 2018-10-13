@@ -19,6 +19,9 @@ public class _01_RobotRace {
 	robot[3].setY(500);
 	robot[4].setX(650);
 	robot[4].setY(500);
+	for (int i = 0; i < robot.length; i++) {
+		
+	}
 	}
 	//2. create an array of 5 robots.
 
